@@ -62,6 +62,24 @@
 
    [https://ojs.aaai.org/index.php/AAAI/article/view/17639/17446]
 
+## FSL
+
+1. Siamese Network : *Siamese Neural Networks for One-shot Image Recognition*
+
+   [http://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf]
+
+2. Matching Network : *Memory Matching Networks for One-Shot Image Recognition*
+
+   [https://arxiv.org/pdf/1804.08281.pdf]
+
+3. Prototype Network : *Prototypical Networks for Few-shot Learning*
+
+   [https://proceedings.neurips.cc/paper/2017/file/cb8da6767461f2812ae4290eac7cbc42-Paper.pdf]
+
+4. Relation Network ： *Learning to Compare: Relation Network for Few-Shot Learning*
+
+   [https://arxiv.org/pdf/1711.06025.pdf]
+
 ## OTHER
 
 1. *The YouTube Video Recommendation System*
