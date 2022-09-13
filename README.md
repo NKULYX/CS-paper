@@ -30,6 +30,10 @@
 
    [https://arxiv.org/pdf/2010.11929.pdf]
 
+8. MAE : *Masked Autoencoders Are Scalable Vision Learners*
+
+   [https://arxiv.org/pdf/2111.06377.pdf]
+   
 8. *Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion*
 
    [https://arxiv.org/pdf/2205.02357.pdf]
