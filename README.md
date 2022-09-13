@@ -48,6 +48,18 @@
 
    [https://arxiv.org/pdf/1810.04805.pdf]
 
+3. GPT : *Improving Language Understanding by Generative Pre-Training*
+
+   [https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf]
+   
+3. GPT-2 : *Language Models are Unsupervised Multitask Learners*
+
+   [https://life-extension.github.io/2020/05/27/GPT%E6%8A%80%E6%9C%AF%E5%88%9D%E6%8E%A2/language-models.pdf]
+   
+3. GPT-3 : *Language Models are Few-Shot Learners*
+
+   [https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf]
+   
 3. *Mining Error Templates for Grammatical Error Correction*
 
    [https://arxiv.org/pdf/2206.11569.pdf]
