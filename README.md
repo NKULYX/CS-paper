@@ -106,6 +106,18 @@
 
    [https://arxiv.org/pdf/1811.04820.pdf]
 
+3. PULNS : Positive-Unlabeled Learning with Effective Negative Sample Selector
+
+   [https://ojs.aaai.org/index.php/AAAI/article/view/17064/16871]
+
+4. Positive-Unlabeled Learning from Imbalanced Data
+
+   [https://www.ijcai.org/proceedings/2021/0412.pdf]
+
+5. Dist-PU : Positive-Unlabeled Learning from a Label Distribution Perspective
+
+   [https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Dist-PU_Positive-Unlabeled_Learning_From_a_Label_Distribution_Perspective_CVPR_2022_paper.pdf]
+
 ## OTHER
 
 1. *The YouTube Video Recommendation System*
