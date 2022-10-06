@@ -118,6 +118,10 @@
 
    [https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Dist-PU_Positive-Unlabeled_Learning_From_a_Label_Distribution_Perspective_CVPR_2022_paper.pdf]
 
+6. Finding Lable and Model Errors in Perception Data with Learned Observation Assertions
+
+​	[https://arxiv.org/pdf/2201.05797.pdf]
+
 ## OTHER
 
 1. *The YouTube Video Recommendation System*
