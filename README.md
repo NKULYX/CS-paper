@@ -106,7 +106,7 @@
 
    [https://arxiv.org/pdf/1811.04820.pdf]
 
-3. PULNS : Positive-Unlabeled Learning with Effective Negative Sample Selector
+3. PULNS : *Positive-Unlabeled Learning with Effective Negative Sample Selector*
 
    [https://ojs.aaai.org/index.php/AAAI/article/view/17064/16871]
 
@@ -114,13 +114,17 @@
 
    [https://www.ijcai.org/proceedings/2021/0412.pdf]
 
-5. Dist-PU : Positive-Unlabeled Learning from a Label Distribution Perspective
+5. Dist-PU : *Positive-Unlabeled Learning from a Label Distribution Perspective*
 
    [https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Dist-PU_Positive-Unlabeled_Learning_From_a_Label_Distribution_Perspective_CVPR_2022_paper.pdf]
 
-6. Finding Lable and Model Errors in Perception Data with Learned Observation Assertions
+6. MA : *MODEL ASSERTIONS FOR MONITORING AND IMPROVING ML MODELS*
 
-​	[https://arxiv.org/pdf/2201.05797.pdf]
+   [https://cs.stanford.edu/~matei/papers/2020/mlsys_model_assertions.pdf]
+
+7. Finding Lable and Model Errors in Perception Data with Learned Observation Assertions
+
+   [https://arxiv.org/pdf/2201.05797.pdf]
 
 ## OTHER
 
