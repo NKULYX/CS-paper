@@ -102,29 +102,43 @@
 
    [https://arxiv.org/pdf/2005.05117.pdf]
 
-2. Learning From Positive and Unlabeled Data: A Survey
-
-   [https://arxiv.org/pdf/1811.04820.pdf]
-
-3. PULNS : *Positive-Unlabeled Learning with Effective Negative Sample Selector*
-
-   [https://ojs.aaai.org/index.php/AAAI/article/view/17064/16871]
-
-4. Positive-Unlabeled Learning from Imbalanced Data
-
-   [https://www.ijcai.org/proceedings/2021/0412.pdf]
-
-5. Dist-PU : *Positive-Unlabeled Learning from a Label Distribution Perspective*
-
-   [https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Dist-PU_Positive-Unlabeled_Learning_From_a_Label_Distribution_Perspective_CVPR_2022_paper.pdf]
-
-6. MA : *MODEL ASSERTIONS FOR MONITORING AND IMPROVING ML MODELS*
+2. MA : *MODEL ASSERTIONS FOR MONITORING AND IMPROVING ML MODELS*
 
    [https://cs.stanford.edu/~matei/papers/2020/mlsys_model_assertions.pdf]
 
-7. Finding Lable and Model Errors in Perception Data with Learned Observation Assertions
+3. Finding Lable and Model Errors in Perception Data with Learned Observation Assertions
 
    [https://arxiv.org/pdf/2201.05797.pdf]
+
+## PUL
+
+1. Learning From Positive and Unlabeled Data: A Survey
+
+   [https://arxiv.org/pdf/1811.04820.pdf]
+
+2. nnPU : *Positive-unlabeled Learning with Non-Negative Risk Estimator*
+
+   [https://arxiv.org/pdf/1703.00593.pdf]
+
+3. PUSB : *Learning from Positive and Unlabeled Data with a Selection Bias*
+
+   [https://openreview.net/pdf?id=rJzLciCqKm]
+
+4. Self-PU : *Self Boosted and Calibrated Positive-Unlabeled Training*
+
+   [https://arxiv.org/pdf/2006.11280v1.pdf]
+
+5. PULNS : *Positive-Unlabeled Learning with Effective Negative Sample Selector*
+
+   [https://ojs.aaai.org/index.php/AAAI/article/view/17064/16871]
+
+6. Positive-Unlabeled Learning from Imbalanced Data
+
+   [https://www.ijcai.org/proceedings/2021/0412.pdf]
+
+7. Dist-PU : *Positive-Unlabeled Learning from a Label Distribution Perspective*
+
+   [https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Dist-PU_Positive-Unlabeled_Learning_From_a_Label_Distribution_Perspective_CVPR_2022_paper.pdf]
 
 ## OTHER
 
