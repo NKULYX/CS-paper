@@ -112,6 +112,14 @@
 
 ## PUL
 
+1. Convex Formulation for Learning from Positive and Unlabeled Data
+
+   [http://proceedings.mlr.press/v37/plessis15.pdf]
+
+1. Class-prior Estimation for Learning from Positive and Unlabeled Data
+
+   [http://proceedings.mlr.press/v45/Christoffel15.pdf]
+
 1. Learning From Positive and Unlabeled Data: A Survey
 
    [https://arxiv.org/pdf/1811.04820.pdf]
