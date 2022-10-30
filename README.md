@@ -112,6 +112,10 @@
 
 ## PUL
 
+1. Learning From Positive and Unlabeled Data: A Survey
+
+   [https://arxiv.org/pdf/1811.04820.pdf]
+
 1. Convex Formulation for Learning from Positive and Unlabeled Data
 
    [http://proceedings.mlr.press/v37/plessis15.pdf]
@@ -120,9 +124,9 @@
 
    [http://proceedings.mlr.press/v45/Christoffel15.pdf]
 
-1. Learning From Positive and Unlabeled Data: A Survey
+2. nPU : *Analysis of Learning from Positive and Unlabeled Data*
 
-   [https://arxiv.org/pdf/1811.04820.pdf]
+   [https://proceedings.neurips.cc/paper/2014/file/35051070e572e47d2c26c241ab88307f-Paper.pdf]
 
 2. nnPU : *Positive-unlabeled Learning with Non-Negative Risk Estimator*
 
