@@ -124,7 +124,7 @@
 
    [http://proceedings.mlr.press/v45/Christoffel15.pdf]
 
-2. nPU : *Analysis of Learning from Positive and Unlabeled Data*
+2. uPU : *Analysis of Learning from Positive and Unlabeled Data*
 
    [https://proceedings.neurips.cc/paper/2014/file/35051070e572e47d2c26c241ab88307f-Paper.pdf]
 
