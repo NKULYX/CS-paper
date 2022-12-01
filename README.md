@@ -152,6 +152,12 @@
 
    [https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Dist-PU_Positive-Unlabeled_Learning_From_a_Label_Distribution_Perspective_CVPR_2022_paper.pdf]
 
+## ER
+
+1. DADER : *Domain Adaptation for Deep Entity Resolution*
+
+   [http://da.qcri.org/ntang/pubs/dader.pdf]
+
 ## OTHER
 
 1. *The YouTube Video Recommendation System*
